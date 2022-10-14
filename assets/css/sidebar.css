@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta&family=Anton&family=Bebas+Neue&family=Bree+Serif&family=Koulen&family=Merriweather+Sans:wght@600;700&family=Roboto+Slab&family=Staatliches&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #F0F8FF;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  font-weight: 400;
+  line-height: 1.35;
+}
+.container{
+  width: 10000px;
+  margin: 0;
+  height: 792px;
+}
